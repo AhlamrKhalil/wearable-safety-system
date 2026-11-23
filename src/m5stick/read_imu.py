@@ -1,6 +1,6 @@
 # Read the M5StickS3 accelerometer and gyroscope
 # Runs on the device with uiflow2 (MicroPython)
-# Run it from the UiFlow2 website (USB connection, run once)
+# Run with: py -m mpremote connect COM4 run src/m5stick/read_imu.py
 
 import time
 import M5
